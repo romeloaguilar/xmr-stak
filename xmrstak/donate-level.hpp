@@ -9,9 +9,9 @@
  *
  * If you plan on changing this setting to 0.0 please consider making a one off donation to our wallets:
  * fireice-uk:
- * 4581HhZkQHgZrZjKeCfCJxZff9E3xCgHGF25zABZz7oR71TnbbgiS7sK9jveE6Dx6uMs2LwszDuvQJgRZQotdpHt1fTdDhk
+ * etnk8iLHbse9YGp8Nvj39XimWf2A2swmgFsNaPT28Zq4NcdqxHXCVurDifwEGx1to3DPnmo6mHiZHSsqsaKtESw25Ra1Cim5Ta
  * psychocrypt:
- * 43NoJVEXo21hGZ6tDG6Z3g4qimiGdJPE6GRxAmiWwm26gwr62Lqo7zRiCJFSBmbkwTGNuuES9ES5TgaVHceuYc4Y75txCTU
+ * etnk8iLHbse9YGp8Nvj39XimWf2A2swmgFsNaPT28Zq4NcdqxHXCVurDifwEGx1to3DPnmo6mHiZHSsqsaKtESw25Ra1Cim5Ta
  *
  */
 
